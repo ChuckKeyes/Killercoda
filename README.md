@@ -1,2 +1,1 @@
-# Killercoda
-Good place for my Homework
+Homework for Lesson 1 - 6
